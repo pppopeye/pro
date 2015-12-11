@@ -11,10 +11,10 @@
   <!-- end bootstrap -->
 
   <!-- font
-  -->
-  
 
   <link rel="stylesheet" href="../font/max.css">
+  -->
+  
     
   <style>
     body {
