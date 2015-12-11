@@ -1,0 +1,21 @@
+body {
+    font-family: max, Verdana, Arial, sans-serif;
+    font-size: x-large;
+    color: black;
+    font-weight: normal;
+
+}
+span.header {
+    font-family: max, Impact, 'Arial Black', sans-serif;
+    font-weight: bold;
+}
+@font-face {
+    font-family: max;
+    src: url('max.eot') /* EOT file for IE */
+}
+@font-face {
+    font-family: max;
+    src: url('max.ttf') /* TTF file for CSS3 browsers */
+}
+
+
